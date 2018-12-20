@@ -1,16 +1,4 @@
 # my_quiz
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+主要使用Flutter的技术实现了一定的动画效果。
+结算页面的再来一次只能通过点击图标实现，文字不行——这是否算是一个bug呢？不改了。
